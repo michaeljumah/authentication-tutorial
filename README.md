@@ -1,10 +1,10 @@
 README.md file
 
-what is authentication
+What is authentication
 
-why is authentication important
+Why is authentication important?
 
-how can authentication be best achieved
+How can authentication be best achieved?
 
-what are the brst practices
+What are the best practices?
 
